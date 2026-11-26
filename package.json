@@ -1,0 +1,1 @@
+{"description":"make.fun entry: one funny robot band name plus a few words on its hit song","license":"MIT","name":"name-the-robot-band","scripts":{"start":"node main.ts","test":"node main.ts"},"type":"module","version":"1.0.0"}
